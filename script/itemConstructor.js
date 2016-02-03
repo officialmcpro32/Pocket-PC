@@ -1,0 +1,2 @@
+
+*/Pocket PC Item Constructor */
